@@ -1,0 +1,7 @@
+invaders
+invaders.exe
+SDL2.dll
+build/
+*.o
+*.d
+.DS_Store
