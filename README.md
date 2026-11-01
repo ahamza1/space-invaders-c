@@ -1,8 +1,8 @@
 # space-invaders-c
-Space invaders made in C.
-
-Originally written as an app for [klika-os](https://github.com/ahamza1/klika-os), now a standalone game
-using [SDL2](https://www.libsdl.org/) that runs on macOS, Linux and Windows.
+Space invaders made in C - originally written as an app for [klika-os](https://github.com/ahamza1/klika-os), now a standalone game using [SDL2](https://www.libsdl.org/) that runs on macOS, Linux and Windows.
+| | |
+|---|---|
+|![home screen](./img/image_1.png)|![gameplay screen](./img/image_2.png)|
 
 ## Controls
 
